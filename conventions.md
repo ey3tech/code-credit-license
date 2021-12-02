@@ -1,15 +1,15 @@
-# Credit Conventions
+# credit conventions
 
-This files lists examples of established conventions for giving public credit for contributions to various kinds of creative work.  This list is _not_ complete, and is not part of the legal text.  If you know of a convention that belongs on this list, please [edit this file and send a pull request!](https://github.com/creditstxt/code-credit-license/edit/main/conventions.md)
+this files lists examples of established conventions for giving public credit for contributions to various kinds of creative work.  this list is _not_ complete, and is not part of the legal text.  if you know of a convention that belongs on this list, please [edit this file and send a pull request!](https://github.com/ey3tech/starstruck-license/edit/main/conventions.md)
 
-- Academic Citation
+- academic citation
 
-- Acknowledgment
+- acknowledgment
 
-- Motion Picture Credit
+- motion picture credit
 
-- Video Game Credit
+- video game credit
 
-- Liner Notes
+- liner notes
 
-- Performing Arts Billing
+- performing arts billing

@@ -1,6 +1,6 @@
-# Code Credit Add-On
+# code credit add-on
 
-Development Draft
+development draft
 
-<https://github.com/creditstxt/code-credit-license>
+<https://github.com/ey3tech/starstruck-license>
 
